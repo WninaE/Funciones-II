@@ -1,2 +1,6 @@
 *.exe
-.vscode
+*.vscode
+*.o
+*.win
+*.layout
+*.exe
