@@ -5,8 +5,6 @@
 #include <cmath>
 using namespace std;
 
-void raices(int m, int n, int o);
-
 int main(){
     int a, b, c, d, r1, r2, r;
     cout<<"Ingrese los coeficientes: ";
